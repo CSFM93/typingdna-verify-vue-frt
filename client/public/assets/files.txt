@@ -1,0 +1,9 @@
+
+https://github.com/vladmandic/face-api/raw/master/model/face_landmark_68_model.bin 
+https://github.com/vladmandic/face-api/raw/master/model/face_landmark_68_model-weights_manifest.json
+https://github.com/vladmandic/face-api/raw/master/model/face_recognition_model.bin
+https://github.com/vladmandic/face-api/raw/master/model/face_recognition_model-weights_manifest.json  
+https://github.com/vladmandic/face-api/raw/master/model/ssd_mobilenetv1_model.bin
+https://github.com/vladmandic/face-api/raw/master/model/ssd_mobilenetv1_model-weights_manifest.json
+https://github.com/vladmandic/face-api/raw/master/model/tiny_face_detector_model.bin
+https://github.com/vladmandic/face-api/raw/master/model/tiny_face_detector_model-weights_manifest.json
